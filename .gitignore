@@ -1,4 +1,4 @@
-server/node_modules
+server2/node_modules
 client/node_modules
-server/.env
-server/Procfile
+server2/.env
+server2/Procfile
